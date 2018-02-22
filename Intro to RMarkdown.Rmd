@@ -1,0 +1,37 @@
+---
+title: "Intro to RMarkdown"
+author: "Ashley Bolwerk"
+date: "February 21, 2018"
+output:
+  pdf_document: default
+  html_document: default
+editor_options:
+  chunk_output_type: console
+---
+
+#Abalone the Cute Pup
+**R code**
+```{r simple code, echo=FALSE}
+
+```
+
+##**Photos**
+![](BabyLonie.jpg)
+<br>
+
+##Tricks
+
+Sit
+
+Stay
+
+Lay Down
+
+Bunny Hop
+
+Spin
+
+Hugs
+
+Close the door
+
